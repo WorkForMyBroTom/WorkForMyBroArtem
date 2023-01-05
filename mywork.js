@@ -1,2 +1,4 @@
 
-alert(document.getElementById('inputtt'))
+function denis(){
+    console.log((document.getElementById('inputtt').value))
+}
